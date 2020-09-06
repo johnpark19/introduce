@@ -1,0 +1,46 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# let me introduce myself   \n",
+    "\n",
+    "---   \n",
+    "\n",
+    "## 소개인사   \n",
+    "---   \n",
+    "\n",
+    "안녕하세요, 박일규입니다.   \n",
+    "\n",
+    "  * IT 업체에서 product manager로 일하고 있습니다.   \n",
+    "  * 최근에는 인공지능과 블록체인 같은 신기술에 집중하고 있습니다.   \n",
+    "  \n",
+    "모두 즐거운 시간 되세요\n",
+    "\n",
+    "![me](/Users/john/workplace/Il-KyuPark.png)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "aiffel",
+   "language": "python",
+   "name": "aiffel"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
